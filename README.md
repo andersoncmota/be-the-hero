@@ -70,7 +70,7 @@ This project was developed at OmniStack 11 Week with the following technologies:
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] or higher + [NPM][yarn] or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -107,7 +107,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 Made with ♥ by Anderson Mota :wave: [Get in touch!](https://www.linkedin.com/in/andersonmotaa/)
 
 [nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
+[yarn]: https://www.npmjs.com/
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
