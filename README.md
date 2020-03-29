@@ -12,8 +12,8 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andersonmotta/be-the-hero.svg" />
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonmotta/be-the-hero.svg" />
-
-  <img alt="Codacy grade" src="" />
+  
+  <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/0be1d483dccb4c198f2a91c885c4a97c.svg" />
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/andersonmotta/be-the-hero.svg" />
 
